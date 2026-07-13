@@ -166,7 +166,7 @@ curl http://localhost:11434/api/version
 Перейти в папку проекта:
 
 ```bash
-cd ollama-gateway
+cd ollama-gateway-v2
 ```
 
 Установить зависимости:
@@ -340,26 +340,6 @@ ollama list
 - Cline
 - MCP
 
----
-
-# Git
-
-Инициализация:
-
-```bash
-git init
-```
-
-Добавление файлов:
-
-```bash
-git add .
-```
-
-Создание commit:
-
-```bash
-git commit -m "Initial ollama gateway"
 ```
 
 ---
